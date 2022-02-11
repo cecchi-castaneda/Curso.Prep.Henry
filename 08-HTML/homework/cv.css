@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(../img/patrones.jpg);
+    background-size: 1365px;
+    background-repeat: no-repeat;
+    font-family: 'Lobster', cursive;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+    
+    
+}
+
+.container h2{
+    padding-right: 80px;
+    
+}
+
+.titulo{
+    padding-bottom: 15px;
+}
+
+
+.aboutMe h3{    
+    padding-top: 20px;
+}
+
+.aboutMe img{
+    border-radius: 153px;
+    width: 140px;
+    height: 140px;
+    padding-left: 0px;
+    
+}
+
+img{
+    margin-left: 200px;
+}
+
+
+.skills{
+    padding: 20px;
+    padding-right: 156px;
+}
+
+.skills h3{
+    padding-top: 20px;
+}
+
+
